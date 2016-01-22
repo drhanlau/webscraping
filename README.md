@@ -4,6 +4,8 @@
 
 This is a collection of web scraping projects used to teach students in understanding how to collect data from websites.
 
+## List of projects
+- [Facebook](facebook_demo.py)
 
 
 
